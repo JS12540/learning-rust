@@ -4,8 +4,8 @@ Learning rust and building applications
 ## What to learn
 
 ```
-1. println + variables
-2. functions + control flow
+1. println + variables - Done
+2. functions + control flow - Done
 3. ownership + borrowing
 4. structs + enums
 5. match + pattern matching
