@@ -1,6 +1,20 @@
 # learning-rust
 Learning rust and building applications
 
+## What to learn
+
+```
+1. println + variables
+2. functions + control flow
+3. ownership + borrowing
+4. structs + enums
+5. match + pattern matching
+6. Result + Option
+7. Vec + HashMap
+8. iterators + closures
+9. modules
+10. traits
+```
 Rust is not “just another language” — it’s mainly used where **performance + safety + reliability** really matter.
 
 Let’s break it down **clearly by each area (software, AI, IoT, etc.)** so you understand where it actually fits 👇
