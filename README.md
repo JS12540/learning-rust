@@ -6,7 +6,7 @@ Learning rust and building applications
 ```
 1. println + variables - Done
 2. functions + control flow - Done
-3. ownership + borrowing
+3. ownership + borrowing - Done
 4. structs + enums
 5. match + pattern matching
 6. Result + Option
