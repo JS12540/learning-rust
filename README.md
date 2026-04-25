@@ -8,8 +8,8 @@ Learning rust and building applications
 2. functions + control flow - Done
 3. ownership + borrowing - Done
 4. structs + enums - Done
-5. match + pattern matching
-6. Result + Option
+5. match + pattern matching - Done
+6. Result + Option - Done
 7. Vec + HashMap
 8. iterators + closures
 9. modules
