@@ -10,7 +10,7 @@ Learning rust and building applications
 4. structs + enums - Done
 5. match + pattern matching - Done
 6. Result + Option - Done
-7. Vec + HashMap
+7. Vec + HashMap - Done
 8. iterators + closures
 9. modules
 10. traits
