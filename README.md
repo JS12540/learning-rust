@@ -11,7 +11,7 @@ Learning rust and building applications
 5. match + pattern matching - Done
 6. Result + Option - Done
 7. Vec + HashMap - Done
-8. iterators + closures
+8. iterators + closures - Done
 9. modules
 10. traits
 ```
