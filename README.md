@@ -12,8 +12,8 @@ Learning rust and building applications
 6. Result + Option - Done
 7. Vec + HashMap - Done
 8. iterators + closures - Done
-9. modules
-10. traits
+9. modules - Done
+10. traits - Done
 ```
 Rust is not “just another language” — it’s mainly used where **performance + safety + reliability** really matter.
 
